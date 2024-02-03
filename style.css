@@ -1,0 +1,233 @@
+html {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+  }
+  
+  .input1::-webkit-scrollbar{
+    display: none;
+  }
+
+  #patternart1::-webkit-scrollbar{
+    display: none;
+  }
+
+  #patternart2::-webkit-scrollbar{
+    display: none;
+  }
+
+  #patternart3::-webkit-scrollbar{
+    display: none;
+  }
+
+  #patternart4::-webkit-scrollbar{
+    display: none;
+  }
+
+  #patternart5::-webkit-scrollbar{
+    display: none;
+  }
+
+
+  #wholecontainer{
+    height: 300vh;
+    width: 100%;
+  }
+  
+  .inputdiv{
+    height: 60vh;
+    width: 30%;
+    background-color: #98C1D9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1%;
+    border-radius: 5px;
+    margin-top: 5%;  
+    box-shadow: 5px 8px 8px #5c5c5c;
+  }
+  
+  .input1{
+    width: 80%;
+    height: 50px;
+    border-radius: 5px;
+    overflow: auto;
+  }
+  
+  #output1{
+    width: 80%;
+    height: 50px;
+    border-radius: 8px;
+  }
+  
+  .button1{
+    width: 80%;
+    height: 60px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #eec4ba;
+    font-size: 150%;
+  }
+  
+  /* .button1:hover{
+    border: 2px solid black;
+  } */
+  
+  ::placeholder{
+    padding-left:2%;
+    font-size: 100%;
+  }
+  
+  .headtext{
+    font-size: 300%;
+  }
+  
+  .assaign1{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E0FBFC;
+  }
+  
+  input{
+    font-size: 200%;
+    border-radius: 8px;
+  }
+
+  .inputdiv2{
+    height: 90vh;
+    width: 60%;
+    background-color: #98C1D9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1%;
+    border-radius: 5px;
+    margin-top: 5%;  
+    box-shadow: 5px 8px 8px #5c5c5c;
+  }
+
+  .patterndiv1{
+    height: 80%;
+    width: 25%;
+    background-color: #98C1D9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+  }
+
+
+  #patternart1{
+    height: 50%;
+    width: 80%;
+    background-color: #E0FBFC;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+    scroll-behavior: smooth;
+  }
+
+  #patternart2{
+    height: 50%;
+    width: 80%;
+    background-color: #E0FBFC;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+    scroll-behavior: smooth;
+  }
+
+  #patternart3{
+    height: 50%;
+    width: 80%;
+    background-color: #E0FBFC;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+    scroll-behavior: smooth;
+  }
+
+  #patternart4{
+    height: 50%;
+    width: 80%;
+    background-color: #E0FBFC;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+    scroll-behavior: smooth;
+  }
+
+  #patternart5{
+    height: 50%;
+    width: 80%;
+    background-color: #E0FBFC;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+    scroll-behavior: smooth;
+  }
+
+
+  #pre4{
+    height: 50%;
+    width: 80%;
+    background-color: #E0FBFC;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+    scroll-behavior: smooth;
+  }
+  
+  .pre1{
+    background-color: rgba(255, 255, 255, 0.842);
+    font-size: 200%;
+    display: flex;
+    align-items: center;
+  }
+
+  .pre2{
+    height: 50%;
+    width: 80%;
+    background-color: #E0FBFC;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+    scroll-behavior: smooth;
+  }
+
+  pre{
+    font-family: 'Poppins', sans-serif;
+    color: rgba(20, 19, 19, 0.87);
+  }
+
+  /* textarea{
+    text-align: center;
+  } */
